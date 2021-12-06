@@ -14,7 +14,7 @@ Your neighbors right to have a good nights sleep is the reason for limiting the 
 
 ### Laundry Room No. 1
 Laundry room no. 1 is the one furthest away for Luthagseplanaden 10A, only accessible from the 10B stairway.
-Reserving gives the right to use the drying room with one hour Bokning av tvättstugan innebär också rätt att samtidigt disponera torkrummet.
+Reserving gives the right to use the drying room with one hour delay.
 |Laundry Hours|Drying Hours|
 |:-:|:-:|
 |07 – 12|08 – 13|
