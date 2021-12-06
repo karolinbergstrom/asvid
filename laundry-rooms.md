@@ -13,20 +13,26 @@ Running the laundry machines, the tumble dryers, or the dehumidifier in the dryi
 Your neighbors right to have a good nights sleep is the reason for limiting the operating hours.
 
 ### Laundry Room No. 1
+Laundry room no. 1 is the one furthest away for Luthagseplanaden 10A, only accessible from the 10B stairway.
 Reserving gives the right to use the drying room with one hour Bokning av tvättstugan innebär också rätt att samtidigt disponera torkrummet.
 |Laundry Hours|Drying Hours|
-07 – 12
-12 – 15
-15 – 18
-18 – 21
-Tvättstuga 2
-Tvättider, alla dagar: 07 – 09
-09 – 12
-12 – 15
-15 – 18 18 – 21
-När du är färdig:
-Torktider, alla dagar: 08 – 13
-13 – 16
-16 – 19
-19 – 22
-Flytta markören till en annan tid eller till en "parkeringsplats". När du flyttat markören från din tid innebär det att du tvättat färdigt, d.v.s. att den återstående tiden kan nyttjas av någon annan. Om du bokat ett tvättpass men inte nyttjat tiden inom en timme får annan medlem ta resterande tid.
+|:-:|:-:|
+|07 – 12|08 – 13|
+|12 – 15|13 – 16|
+|15 – 18|16 – 19|
+|18 – 21|19 – 22|
+
+### Laundry Room No. 2
+Laundry room no. 2 is the one located between the stairways of Luthagsesplanaden 10A and 10B.
+|Laundry Hours|
+|:-:|
+|07 – 09|
+|09 – 12|
+|12 – 15|
+|15 – 18|
+|18 – 21|
+
+When you are done with the laundry, you should move your lockable marker to a new slot, or to a "parking place".
+By moving your marker you tell your neigbors you are done and that what remains of the slot can be used by someone else.
+
+> If you reserved a laundry room, and have not started within one hour, another member of the housing association is allowed to use your slot.
