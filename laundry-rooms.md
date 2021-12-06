@@ -2,7 +2,7 @@
 
 In the basement of the Luthagsesplanaden building you will find the laundry rooms.
 > Don't forget to tidy up and clean the laundry room when you are done.
-> Always leave the laundry room in the same condition you wouild like to find it in, and never in a worse condition than what you found it in.
+> Always leave the laundry room in the same condition you would like to find it in, and never in a worse condition than what you found it in.
 
 ## When reserving your slot
 The only way to book a laundry slot is by locking your appartments marker in the planning board in the wanted position.
